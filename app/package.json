@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tigerconnect/dep-a": "1.0.0",
     "@tigerconnect/dep-b": "1.0.0"
   }
 }
